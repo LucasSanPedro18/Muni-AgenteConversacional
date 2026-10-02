@@ -1,0 +1,2 @@
+caso,descripción,herramientas,llamadas LLM,esperadas,prohibidas,check,resultado,error
+T8,Arbolado: canal correcto,buscar_informacion_tramites,2,True,True,✅ deriva al reclamo de arbolado,PASA,

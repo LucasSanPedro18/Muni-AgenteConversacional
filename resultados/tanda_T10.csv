@@ -1,0 +1,2 @@
+caso,descripción,herramientas,llamadas LLM,esperadas,prohibidas,check,resultado,error
+T10,"Habilitación online, sin turno","buscar_informacion_tramites, buscar_informacion_tramites, listar_tramites",4,True,True,✅ indica el trámite online,PASA,

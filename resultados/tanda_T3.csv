@@ -1,0 +1,2 @@
+caso,descripción,herramientas,llamadas LLM,esperadas,prohibidas,check,resultado,error
+T3,Día → horario → confirmación → reserva,"consultar_mi_situacion, consultar_dias_disponibles, consultar_turnos_disponibles, reservar_turno",7,True,True,✅ la base tiene el turno a nombre de Carlos,PASA,

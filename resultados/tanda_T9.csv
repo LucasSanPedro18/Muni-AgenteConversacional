@@ -1,0 +1,2 @@
+caso,descripción,herramientas,llamadas LLM,esperadas,prohibidas,check,resultado,error
+T9,TGI con deuda,"buscar_informacion_tramites, consultar_mi_situacion",2,True,True,✅ explica que la deuda impide el certificado,PASA,

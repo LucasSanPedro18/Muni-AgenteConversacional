@@ -1,0 +1,2 @@
+caso,descripción,herramientas,llamadas LLM,esperadas,prohibidas,check,resultado,error
+T4,Multas impagas bloquean la licencia,"consultar_mi_situacion, consultar_dias_disponibles",2,True,True,✅ NO se reservó turno,PASA,

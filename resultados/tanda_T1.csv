@@ -1,0 +1,2 @@
+caso,descripción,herramientas,llamadas LLM,esperadas,prohibidas,check,resultado,error
+T1,RAG: requisitos licencia nueva,"buscar_informacion_tramites, calcular_costo_licencia, buscar_informacion_tramites, buscar_informacion_tramites",4,True,True,✅ menciona los exámenes,PASA,

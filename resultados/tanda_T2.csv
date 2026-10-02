@@ -1,0 +1,2 @@
+caso,descripción,herramientas,llamadas LLM,esperadas,prohibidas,check,resultado,error
+T2,Costo por edad + turnos,"calcular_costo_licencia, consultar_mi_situacion, consultar_dias_disponibles",2,True,True,✅ total correcto para 71 años,PASA,

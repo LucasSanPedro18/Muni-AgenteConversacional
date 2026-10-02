@@ -1,0 +1,2 @@
+caso,descripción,herramientas,llamadas LLM,esperadas,prohibidas,check,resultado,error
+T6,Fuera de dominio,—,1,True,True,✅ redirige a trámites,PASA,

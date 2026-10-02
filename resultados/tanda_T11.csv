@@ -1,0 +1,2 @@
+caso,descripción,herramientas,llamadas LLM,esperadas,prohibidas,check,resultado,error
+T11,Obras: ampliación,"buscar_informacion_tramites, buscar_informacion_tramites",3,True,True,✅ identifica el permiso,PASA,
